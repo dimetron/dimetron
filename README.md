@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimetron
-- 👀 I’m interested in ... Java, Go, Rust, Kubernetes
+- 👀 I’m interested in ... Java, Go, Rust, Kubernetes, Cybersec
 - 🌱 I’m currently learning ... 
 - 📫 How to reach me - dimetron@me.com
 
